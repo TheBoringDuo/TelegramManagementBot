@@ -1,5 +1,5 @@
 
-
+By ysanatomic
 (NOT UPLOADED YET) (SOME BASIC FILES ARE MISSING)
 
 This is Managment bot for telegram. You can find him in telegram as @LoopedInfinity (Loop).
