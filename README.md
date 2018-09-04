@@ -23,7 +23,8 @@ from modules.newmodule import NewFunction
 ```
 
 You can create the handler like the other ones in the file.
- 
+
+This bot is based on that api: https://python-telegram-bot.readthedocs.io/en/stable/
  
 The configuration process is simplified as much as possible.
 
